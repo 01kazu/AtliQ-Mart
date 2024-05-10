@@ -14,6 +14,10 @@ The Supply Chain team decided to use a standard approach to measure the service 
   <li>Create relevant insights not provided in the metric list/stakeholder meeting.</li>
 </ol>
 
+<h2>Files</h2>
+<p> My solution to the project is <strong>Service Level Analytics.pbix</strong> file</p>
+<p>All the data and requirements of the project are located in the <strong>C2 Input for participants</strong> folder</p>
+
 
 
 
