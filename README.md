@@ -15,8 +15,9 @@ The Supply Chain team decided to use a standard approach to measure the service 
 </ol>
 
 <h2>Files</h2>
-<p> My solution to the project is <strong>Service Level Analytics.pbix</strong> file</p>
-<p>All the data and requirements of the project are located in the <strong>C2 Input for participants</strong> folder</p>
+<p>My solution to the project is <strong>Service Level Analytics.pbix</strong> file</p>
+<p>I used python to create the metrics in the <strong>data_preprocessing.ipynb</strong> file in the <strong>C2 Input for participants</strong> folder</p> 
+<p>All other files in the <strong>C2 Input for participants</strong> folder represents datasets and requirements of the project.</p>
 
 
 
