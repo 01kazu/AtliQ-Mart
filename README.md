@@ -17,7 +17,21 @@ The Supply Chain team decided to use a standard approach to measure the service 
 <h2>Files</h2>
 <p>My solution to the project is <strong>Service Level Analytics.pbix</strong> file</p>
 <p>I used python to create the metrics in the <strong>data_preprocessing.ipynb</strong> file in the <strong>C2 Input for participants</strong> folder</p> 
+<p><strong> C2 Stakeholder Chat_Business Review Meeting.pdf</strong> contains information on the requirements of the dashboard </p>
+<p><strong> C2 Business Knowledge.pdf</strong> contains information of how to calculate the metrics</p>
+<p><strong> C2 Peter Pandey's Note.pdf</strong> contains information of how the dashboard should look like </p>
 <p>All other files in the <strong>C2 Input for participants</strong> folder represents datasets and requirements of the project.</p>
+<p><strong>meta_data.txt</strong> contains all the information about the data provided by the company. These include:</p>
+<ol>
+  <li>dim_customers.csv</li>
+  <li>dim_date.csv</li>
+  <li>dim_products.csv</li>
+  <li>dim_targets_order.csv</li>
+  <li>fact_orders_aggregate.csv</li>
+</ol>
+<p> <strong>lifr_vofr_metrics</strong> contains the LIFR (Line FIll Rate) and VOFR (Volume Fill Rate) metrics </p>
+<p> <strong>metrics_vs_targets.csv</strong> contains the On Time%, In Full% an On Time In Full% metrics compared to the their expected targets.</p>
+
 
 
 
